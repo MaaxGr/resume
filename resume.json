@@ -1,110 +1,118 @@
 {
+  "meta": {
+    "theme": "kendall"
+  },
   "basics": {
     "name": "Max Großmann",
     "label": "Senior Full Stack Developer",
     "image": "https://avatars.githubusercontent.com/u/43404580",
     "email": "dev@maax.gr",
-    "phone": "(912) 555-4321",
+    "phone": "",
     "url": "https://grossmax.net",
     "summary": "Passion for Kotlin Backends, DevOps and Modern Web-Development with Vue.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "postalCode": "95028",
+      "city": "Hof",
+      "countryCode": "DE",
+      "region": "Franconia"
     },
-    "profiles": [{
-      "network": "Twitter",
-      "username": "john",
-      "url": "https://twitter.com/john"
-    }]
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Max Großmann",
+        "url": "https://www.linkedin.com/in/grossmannmax/"
+      },
+      {
+        "network": "GitHub",
+        "username": "MaaxGr",
+        "url": "https://github.com/MaaxGr"
+      },
+      {
+        "network": "Twitter",
+        "username": "byCaelis",
+        "url": "https://twitter.com/byCaelis"
+      }
+    ]
   },
-  "work": [{
-    "name": "Company",
-    "position": "President",
-    "url": "https://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Started the company"
-    ]
-  }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "University",
-    "url": "https://institution.com/",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "JavaScript"
-    ]
-  }],
-  "languages": [{
-    "language": "English",
-    "fluency": "Native speaker"
-  }],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
-  "projects": [{
-    "name": "Project",
-    "startDate": "2019-01-01",
-    "endDate": "2021-01-01",
-    "description": "Description...",
-    "highlights": [
-      "Won award at AIHacks 2016"
-    ],
-    "url": "https://project.com/"
-  }]
+  "work": [
+    {
+      "name": "Güttler Logistik GmbH",
+      "position": "Senior Full Stack Developer",
+      "url": "https://guettlerlogistik.de",
+      "startDate": "2022-03",
+      "summary": "Built several modern Web-Apps, Android-Apps und Backend Systems",
+      "highlights": [
+        "Built a web based Intranet as a Hub for every office employee",
+        "Built a CI/CD workflow for the IT-Team including Jenkins, Docker, MS-Teams Webhooks, Harbor und Renovate"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Kulturdrang e.V.",
+      "position": "Volunteer",
+      "url": "https://www.linkedin.com/company/kulturdrang-e-v/",
+      "startDate": "2023-04-24",
+      "summary": "Service Worker, IT-Administration",
+      "highlights": [
+        "Open the bar and café 'zur Auszeit' in Hof"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Applied Sciences Hof",
+      "url": "https://www.hof-university.com/",
+      "area": "Mobile Computing",
+      "studyType": "Bachelor",
+      "startDate": "2018-08",
+      "endDate": "2022-03",
+      "score": "1.1",
+      "courses": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+  ],
+  "certificates": [
+  ],
+  "publications": [
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "Vue",
+        "Nuxt",
+        "Angular",
+        "TypeScript",
+        "JavaScript"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Fitness",
+      "keywords": [
+        "Gym",
+        "Home Workouts"
+      ]
+    }
+  ],
+  "references": [
+  ],
+  "projects": [
+  ]
 }
